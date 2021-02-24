@@ -1,4 +1,5 @@
-TankGame
+# TankGame
+
 ----------TÜRKÇE----------
 
 -Unity oyun motorunda C# dili ile yazılmıştır.
@@ -51,6 +52,6 @@ TankGame
 
 -There is a gameplay video inside the tankGame folder.
 
-image1
+![image1](https://user-images.githubusercontent.com/51531588/59282470-a9d4cf00-8c71-11e9-95c9-bb81703de987.png)
 
-image2
+![image2](https://user-images.githubusercontent.com/51531588/59282496-b1947380-8c71-11e9-8d96-12826b5ac60a.png)
